@@ -16,3 +16,4 @@ Ejemplos de apps de streamlit
 | Codigo fuente       | App     |
 | ------------- |:-------------:|
 | https://github.com/TamaraCucumides/StreamlitAppExample | https://share.streamlit.io/tamaracucumides/streamlitappexample/main |
+| https://github.com/streamlit/demo-uber-nyc-pickups/ | https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main |
