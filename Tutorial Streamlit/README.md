@@ -1,4 +1,4 @@
-# Tutorial Streamlit
+# Tutorial Streamlit :art:
 
 Les recomiendo revisar la documentacion: https://docs.streamlit.io/
 
