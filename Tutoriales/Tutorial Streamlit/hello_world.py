@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+st.title("Este es el titulo")
 st.write("Hola Mundo")
 
 df = pd.DataFrame({"Columna 1": [1,2,3,4,5],
